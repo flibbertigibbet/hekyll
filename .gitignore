@@ -1,5 +1,12 @@
+_drafts/
 _site/
 .sass-cache/
+
+.DS_Store
+*.swo
+*.swp
+*~
+
 node_modules/
 bower_components/
 !css/syntax.css
